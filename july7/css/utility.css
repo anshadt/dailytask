@@ -1,0 +1,6 @@
+.card-body{
+    display: flex;
+    flex-wrap: row;
+    padding: 20px;
+    margin: 20px;
+}
