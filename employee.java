@@ -16,7 +16,7 @@ public class employee {
 
 
 
-	/*public String getName() {
+	public String getName() {
 		return name;
 	}
 
@@ -48,7 +48,7 @@ public class employee {
 
 	public void setSalary(double salary) {
 		this.salary = salary;
-	}*/
+	}
 	public void raiseSalary(double percentage) {
 		salary = salary + salary*percentage/100;
 	}
